@@ -16,7 +16,7 @@ st.write("Finalmente, aplicaremos o algoritmo de clusterização *K-Prototypes* 
          e o *churn rate* da empresa.")
 
 
-data = pd.read_csv('data.csv')
+data = pd.read_csv(r'data.csv')
 
 var_cat=['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod']
 var_num=['tenure', 'MonthlyCharges', 'TotalCharges']
