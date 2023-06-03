@@ -21,4 +21,4 @@ Aplicativo no Streamlit[https://hermannvargens-clustering-1-introduo-tumsmr.stre
 
 Para acessar a implantação em Streamlit, <a href="https://hermannvargens-clustering-1-introduo-tumsmr.streamlit.app/Clusteriza%C3%A7%C3%A3o">clique aqui!</a>
 
-Para acessar o Jupyter Notebook, 
+Para acessar o Jupyter Notebook, <a href="https://github.com/hermannvargens/Clustering/blob/main/Clusteriza%C3%A7%C3%A3o.ipynb">clique aqui!</a>
