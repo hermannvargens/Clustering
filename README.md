@@ -8,8 +8,6 @@ Responderemos tammbém algumas perguntas de negócio através de consulta ao ban
 
 Finalmente, aplicaremos o algoritmo de clusterização K-Prototypes para segmentar os clientes em diferentes grupos e entender melhor como cada grupo contribui com as receitas e o churn rate da empresa.
 
-Aplicativo no Streamlit[https://hermannvargens-clustering-1-introduo-tumsmr.streamlit.app/Clusteriza%C3%A7%C3%A3o]
-
 ## Tópicos do Projeto
 
 - Consulta ao Banco de dados para extração de insights;
@@ -19,6 +17,6 @@ Aplicativo no Streamlit[https://hermannvargens-clustering-1-introduo-tumsmr.stre
 
 ## Links
 
-Para acessar a implantação em Streamlit, <a href="https://hermannvargens-clustering-1-introduo-tumsmr.streamlit.app/Clusteriza%C3%A7%C3%A3o">clique aqui!</a>
+Para acessar a implantação do aplicatico em Streamlit, <a href="https://hermannvargens-clustering-1-introduo-tumsmr.streamlit.app/Clusteriza%C3%A7%C3%A3o">clique aqui!</a>
 
 Para acessar o Jupyter Notebook, <a href="https://github.com/hermannvargens/Clustering/blob/main/Clusteriza%C3%A7%C3%A3o.ipynb">clique aqui!</a>
