@@ -4,6 +4,8 @@ import numpy as np
 
 data = pd.read_csv('data.csv')
 
+st.write("Nesse trabalho...")
+
 
 
 
