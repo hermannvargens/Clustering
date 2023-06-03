@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-data = pd.read_csv('data.csv')
+data = pd.read_csv(r'data.csv')
 
 st.header("Entendendo os clientes de uma empresa de Telecomunicações através de Clusterização")
 
