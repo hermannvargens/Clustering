@@ -9,3 +9,10 @@ Responderemos tammbém algumas perguntas de negócio através de consulta ao ban
 Finalmente, aplicaremos o algoritmo de clusterização K-Prototypes para segmentar os clientes em diferentes grupos e entender melhor como cada grupo contribui com as receitas e o churn rate da empresa.
 
 Aplicativo no Streamlit[https://hermannvargens-clustering-1-introduo-tumsmr.streamlit.app/Clusteriza%C3%A7%C3%A3o]
+
+## Tópicos do Projeto
+
+- Consulta ao Banco de dados para extração de insights;
+- Análise Exploratória de Dados com Visualização;
+- Clusterização;
+- Insights relacionados ao *Churn* e a Clusterização.
