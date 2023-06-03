@@ -3,21 +3,17 @@ import pandas as pd
 import numpy as np
 
 
-st.header("Análise Exploratória de Dados de uma empresa de Telecomunicações") 
+st.header("Perguntas de Negócio") 
 
-st.write('**Dados**')
 
 data = pd.read_csv('data.csv')
 
-mostrar_dados = st.checkbox("Mostrar dados")
-if mostrar_dados:
-    st.write(data)
 
 #####
 var_cat=['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod']
 var_num=['tenure', 'MonthlyCharges', 'TotalCharges']
 
-st.write("**PERGUNTAS DE NEGÓCIO**")
+
 
 #PERGUNTA 1
 st.write('**P1 - Qual o *churn rate* da empresa, isto é, qual a porcentagem de clientes que deixou o serviço?**')
