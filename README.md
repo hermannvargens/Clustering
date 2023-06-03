@@ -16,3 +16,9 @@ Aplicativo no Streamlit[https://hermannvargens-clustering-1-introduo-tumsmr.stre
 - Análise Exploratória de Dados com Visualização;
 - Clusterização;
 - Insights relacionados ao *Churn* e a Clusterização.
+
+## Links
+
+Para acessar a implantação em Streamlit, <a href="https://hermannvargens-clustering-1-introduo-tumsmr.streamlit.app/Clusteriza%C3%A7%C3%A3o">clique aqui!</a>
+
+Para acessar o Jupyter Notebook, 
