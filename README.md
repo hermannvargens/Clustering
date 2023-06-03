@@ -19,4 +19,4 @@ Finalmente, aplicaremos o algoritmo de clusterização K-Prototypes para segment
 
 Para acessar a implantação do aplicatico em Streamlit, <a href="https://hermannvargens-clustering-1-introduo-tumsmr.streamlit.app/Clusteriza%C3%A7%C3%A3o">clique aqui!</a>
 
-Para acessar o Jupyter Notebook, <a href="https://github.com/hermannvargens/Clustering/blob/main/Clusteriza%C3%A7%C3%A3o.ipynb">clique aqui!</a>
+Para acessar o Jupyter Notebook, <a href="https://hermannvargens.github.io/Clustering/">clique aqui!</a>
