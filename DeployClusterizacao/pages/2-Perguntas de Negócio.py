@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-st.header("Análise Exploratória de Dados de uma empresa de Telecomunicações")
+st.header("Análise Exploratória de Dados de uma empresa de Telecomunicações") 
 
 st.write('**Dados**')
 
